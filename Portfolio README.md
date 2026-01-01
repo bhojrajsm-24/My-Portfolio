@@ -63,8 +63,6 @@ Projects will be updated as my skills grow.
 
 ## 📬 CONNECT
 Portfolio  : https://my-portfolio--bhojrajsm24.replit.app  
-GitHub     : https://github.com/YOUR_USERNAME  
-
 ---
 
 > Built for learning.  
