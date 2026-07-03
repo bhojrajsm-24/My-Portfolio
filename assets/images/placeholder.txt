@@ -1,0 +1,17 @@
+Image Placeholder Instructions
+================================
+
+Replace the following placeholder images with your actual images:
+
+1. profile.jpg - Your professional photo (400x400px recommended)
+2. project1.jpg - Text-to-Speech App screenshot
+3. project2.jpg - Alarm Application screenshot
+4. project3.jpg - Water Reminder System screenshot
+5. project4.jpg - Portfolio Website screenshot
+6. project5.jpg - Bike Sales Analytics Dashboard screenshot (Excel)
+
+Recommended image formats: JPG or PNG
+Recommended dimensions: 800x600px for project images
+
+Also add your resume PDF:
+- assets/resume.pdf - Your resume/CV file
